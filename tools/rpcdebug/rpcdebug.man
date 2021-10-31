@@ -68,6 +68,10 @@ Set the given debug flags.
 .B \-v
 Increase the verbosity of \fBrpcdebug\fP's output.
 .\" -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+.TP
+.B \-f
+Flag which I want to use for Testing.
+.\" -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 .SH FILES
 .TP
 .B /proc/sys/sunrpc/{rpc,nfs,nfsd,nlm}_debug
